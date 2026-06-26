@@ -1,0 +1,18 @@
+[project]
+name = "dynamic-mfa-summer-school"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "floweaver>=2.0.1",
+    "ipysankeywidget>=0.6.0",
+    "jupyterlab>=4.5.8",
+    "jupyterlab-spreadsheet-editor>=0.7.2",
+    "jupytext>=1.19.4",
+    "matplotlib>=3.11.0",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "scipy>=1.17.1",
+    "xlsxwriter>=3.2.9",
+]
