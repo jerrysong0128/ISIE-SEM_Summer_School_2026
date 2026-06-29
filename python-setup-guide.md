@@ -1,10 +1,10 @@
 # Python environment setup
 
 **Goal:** by the end of this guide you will have a self-contained Python
-environment for the course and a working `environment_check.ipynb` notebook that
-demonstrates it. The main path uses **uv** and **JupyterLab** and is identical on
-Windows, macOS, and Linux. Two optional appendices cover **VS Code** and
-**Miniforge/conda** for people who need them or have time to explore.
+environment for the course and a working `python_environment_check.ipynb`
+notebook that demonstrates it. The main path uses **uv** and **JupyterLab** and
+is identical on Windows, macOS, and Linux. Two optional appendices cover **VS
+Code** and **Miniforge/conda** for people who need them or have time to explore.
 
 
 ## What tools are we using?
@@ -80,7 +80,7 @@ These commands are the same on every platform. We create a new project using ver
 ```bash
 uv init --python 3.12 mfa-env-test
 cd mfa-env-test
-uv add jupyterlab ipykernel numpy pandas matplotlib scipy
+uv add jupyterlab ipykernel numpy pandas matplotlib scipy openpyxl
 ```
 
 What just happened:
