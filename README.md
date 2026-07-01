@@ -35,9 +35,9 @@ In the second half of the summer school, participants branch into focus groups o
 │   └── Bath_dMFA_Python_SummerSchool_2026.pdf
 ├── 2_focus_groups/
 │   ├── 21_Monte-Carlo_Rick_Lupton/
-│   ├── 22_GloBUS-Temoa_Zhi_Cao/
+│   ├── 22_GloBus-Temoa_Zhi_Cao/
 │   │   ├── docs/
-│   │   ├── GloBUS/
+│   │   ├── GloBus/
 │   │   └── TEMOA/
 │   └── 23_flodym_deepdive_Stefan_Pauliuk/
 │       ├── input_data/
@@ -58,7 +58,7 @@ Course participants can begin with the numbered folders in order:
 2. Open the introductory dMFA notebooks in `1_dMFA_Python_Intro_Stefan_Pauliuk/`.
 3. Choose the relevant focus group materials in `2_focus_groups/`.
 4. For the uncertainty focus group, start with `2_focus_groups/21_Monte-Carlo_Rick_Lupton/README.md`.
-4. For the GloBUS-Temoa focus group, start with `2_focus_groups/22_GloBUS-Temoa_Zhi_Cao/README.md`.
+4. For the GloBus-Temoa focus group, start with `2_focus_groups/22_GloBus-Temoa_Zhi_Cao/README.md`.
 5. For the flodym deep dive, use `2_focus_groups/23_flodym_deepdive_Stefan_Pauliuk/`.
 
 ## Organizers

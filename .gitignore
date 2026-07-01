@@ -11,7 +11,7 @@ output_files
 *.sqlite-wal
 *.sqlite-shm
 
-2_focus_groups/22_GloBUS-Temoa_Zhi_Cao/TEMOA/data/2_temoa/24_temoa_USA
-2_focus_groups/22_GloBUS-Temoa_Zhi_Cao/TEMOA/data/2_temoa/23_temoa_Europe
-!2_focus_groups/22_GloBUS-Temoa_Zhi_Cao/TEMOA/data/1_mfa/pre-run-demand/
-!2_focus_groups/22_GloBUS-Temoa_Zhi_Cao/TEMOA/data/1_mfa/pre-run-demand/*.csv
+2_focus_groups/22_GloBus-Temoa_Zhi_Cao/TEMOA/data/2_temoa/24_temoa_USA
+2_focus_groups/22_GloBus-Temoa_Zhi_Cao/TEMOA/data/2_temoa/23_temoa_Europe
+!2_focus_groups/22_GloBus-Temoa_Zhi_Cao/TEMOA/data/1_mfa/pre-run-demand/
+!2_focus_groups/22_GloBus-Temoa_Zhi_Cao/TEMOA/data/1_mfa/pre-run-demand/*.csv
