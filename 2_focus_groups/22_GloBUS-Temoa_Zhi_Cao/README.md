@@ -2,26 +2,18 @@
 
 This repository supports two installation options.
 
-## Option 1: Python 3.12+ Already Installed
+## Option 1: Using uv
 
-If your current Python is `>=3.12`, install from PyPI in a virtual environment at the project root (`MFA-Temoa`):
+if you have `uv` installed, you can add `temoa` 
 
 ```bash
-python -m venv .venv
-# Remove existing virtual environment if it exists
-rm -rf .venv  
-# Deactivate any active virtual environment
-deactivate 2>/dev/null || true
-
-# On Linux/macOS
-source .venv/bin/activate
-
-# On Windows
-.venv\Scripts\activate
-pip install temoa
+uv init --python 3.12 
+uv add jupyterlab ipykernel numpy pandas matplotlib scipy openpyxl temoa
+# If you already have a uv environment, you can just add temoa to it:
+uv add temoa
 ```
 
-## Option 2: No Suitable Python Installed
+## Option 2: Using Conda
 
 If you do not have Python `>=3.12`, create a Conda environment from `environment.yml` (it installs `temoa` automatically):
 
