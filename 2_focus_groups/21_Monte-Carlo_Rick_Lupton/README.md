@@ -8,6 +8,8 @@ Full versions, with example working code for the main exercises, are available f
 
 Data files needed by the notebooks are in `data/`
 
+The files in `quick_examples/` are AI-written mockups to illustrate some further points that came up during the workshop.
+
 ### Python dependencies
 
 Using `uv`, you can run `uv sync` in this folder to install the required dependencies in a new environment. Then run `uv run jupyter lab` to open Jupyter lab to access the notebooks.
