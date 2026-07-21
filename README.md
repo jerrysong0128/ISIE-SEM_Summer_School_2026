@@ -66,3 +66,7 @@ Course participants can begin with the numbered folders in order:
 - Rick Lupton, University of Bath, UK
 - Zhi Cao, Nankai University, China
 - Stefan Pauliuk, University of Freiburg, Germany
+
+## Licence
+
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
